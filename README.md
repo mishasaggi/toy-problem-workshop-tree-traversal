@@ -61,7 +61,7 @@
     Output: A CSS stylesheet assigning the color to the state's 2 letter ID code. 
     Resources:
     https://en.wikipedia.org/wiki/Four_color_theorem
-    https://upload.wikimedia.org/wikipedia/commons/3/32/Blank_US_Map
+    https://upload.wikimedia.org/wikipedia/commons/3/32/Blank_US_Map.svg
 
     Rules
 

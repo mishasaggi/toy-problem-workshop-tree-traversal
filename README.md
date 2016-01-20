@@ -54,7 +54,7 @@
 
 ### problem 4: Four color theorem generator
 
-    The [four color theorem][] states that no more than four colors are required to color the regions of a map.
+    The four color theorem states that no more than four colors are required to color the regions of a map.
 
     Input: A list of state borders. Format the input structure per your code design.
     Task: Assign each state ID a color so that no two adjacent states have the same color. 

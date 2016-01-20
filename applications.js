@@ -36,17 +36,10 @@ Many algorithms like Prim’s Minimum Spanning Tree and Dijkstra’s Single Sour
   Problem 4: Delete a binary tree (freeing all nodes)
 
 
-
-
-
-
-
-
-
-  Problem keys:
-  1 : in-order traversal
-  2 : pre-order traversal
-  3 : breadth first traversal
-  4 : post-order traversal
+  Answer:
+  1 : 
+  2 : 
+  3 : 
+  4 : 
 
 */

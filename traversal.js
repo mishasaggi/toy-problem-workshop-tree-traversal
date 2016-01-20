@@ -74,7 +74,6 @@
   /*
     The trace of a traversal is called a sequentialisation of the tree. 
     The traversal trace is a list of each visited root node.
-    No one type of trace will describe a tree uniquely, you need to use a combination of two atleast.
   */
 
 

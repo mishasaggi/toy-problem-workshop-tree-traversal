@@ -3,7 +3,8 @@
     commit and push to your repo/branch
 
 # Study resources
-  traversal.ja contains traversal algorithms
+  traversal.js contains traversal algorithms.
+
   applications.js contains examples and applications of DF and BF algorithms
 
 # Code Challenges

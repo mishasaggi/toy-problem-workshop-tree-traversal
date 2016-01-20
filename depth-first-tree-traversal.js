@@ -14,11 +14,11 @@ treeMethods.addChild = function(value){
   this.children.push(Tree(value));
 };
 
-treeMethods.recursiveBreadthFirst = function(callback){
+treeMethods.recursiveDepthFirst = function(callback){
   //your codes
 };
 
-treeMethods.iterativeBreadthFirst = function(callback){
+treeMethods.iterativeDepthFirst = function(callback){
   //your code
 };
 

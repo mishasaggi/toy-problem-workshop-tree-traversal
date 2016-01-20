@@ -59,7 +59,9 @@
     Input: A list of state borders. Format the input structure per your code design.
     Task: Assign each state ID a color so that no two adjacent states have the same color. 
     Output: A CSS stylesheet assigning the color to the state's 2 letter ID code. 
-    Use this [states map svg][]
+    Resources:
+    https://en.wikipedia.org/wiki/Four_color_theorem
+    https://upload.wikimedia.org/wikipedia/commons/3/32/Blank_US_Map
 
     Rules
 

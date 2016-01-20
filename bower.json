@@ -1,0 +1,22 @@
+{
+  "name": "toy-problem-workshop-tree-traversal",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mishasaggi/toy-problem-workshop-tree-traversal",
+  "authors": [
+    "mishasaggi <monisha.saggi@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3"
+  }
+}
